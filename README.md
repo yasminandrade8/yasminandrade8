@@ -38,8 +38,8 @@
   <br><br>
   <div align="center">
     <p>
-      <font size="7"><strong>Entre em contato comigo!</strong></font><br>
-      <font size="5">Vamos compartilhar novas experiências juntos!</font>
+      <font size="7"><strong>⋆˚࿔ Entre em contato comigo! ⋆˚࿔</strong></font><br>
+      <font size="5">𖦹°·𓇼 Vamos compartilhar novas experiências juntos! 𖦹°·𓇼</font>
     </p>
   </div>
 </div>
