@@ -19,7 +19,7 @@
 </p>
 
 
-### 🛠️Linguagens e tecnologias
+## 🛠️Linguagens e tecnologias
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,mysql,py,js,react,git,css,html" />
 </p>
@@ -33,7 +33,7 @@
 <hr>
 
 <div style="display: inline-block; width: 100%;">
-  <img src="https://github.com/user-attachments/assets/ae2c1398-5d8c-46b2-afc1-2e738a017f68" align="right" width="400" />
+  <img src="https://github.com/user-attachments/assets/ae2c1398-5d8c-46b2-afc1-2e738a017f68" align="right" width="300" />
   
   <br><br>
   <div align="center">
