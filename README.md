@@ -6,7 +6,7 @@
   <img width="540" height="220" alt="Inicio" src="https://github.com/user-attachments/assets/9d0ae74f-c9b6-4b84-8793-fe1022a2e1b2"/>
 </p>
 
-⋆｡ﾟ🌊｡ Me chamo Yasmin Rodrigues de Andrade, tenho 19 anos e sou estudande de Desenvolvimento de Software Multiplataforma, tenho muito ineteresse em arquitetura Back-end e minhas ferramentas favoritas são o Java e o MySQL. No momento, estou aprofundando meus conhecimentos em back-end, explorando arquitetura de bancos de dados e lógica de programação avançada. ⋆｡ﾟ🌊｡
+⋆｡ﾟ🌊｡ Me chamo Yasmin Rodrigues de Andrade, tenho 19 anos e sou estudande de Desenvolvimento de Software Multiplataforma, tenho muito interesse em arquitetura Back-end e minhas ferramentas favoritas são o Java e o MySQL. No momento, estou aprofundando meus conhecimentos em back-end, explorando arquitetura de bancos de dados e lógica de programação avançada. ⋆｡ﾟ🌊｡
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/LOCALIZAÇÃO-SÃO BERNADO DO CAMPO%2C%20SP-87CEEB?style=for-the-badge&labelColor=555555" />
