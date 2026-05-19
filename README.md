@@ -24,11 +24,12 @@
   <img src="https://skillicons.dev/icons?i=java,mysql,py,js,react,git,css,html" />
 </p>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasminandrade8&show_icons=true&title_color=87CEFA&text_color=87CEFA&icon_color=bb86fc&bg_color=0d1117&border_radius=10&include_all_commits=true" />
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminandrade8&layout=compact&title_color=87CEFA&text_color=ffffff&bg_color=0d1117&border_radius=10" />
-</div>
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasminandrade8&show_icons=true&title_color=87CEFA&text_color=87CEFA&icon_color=bb86fc&bg_color=0d1117&border_radius=10&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasminandrade8&layout=compact&title_color=87CEFA&text_color=ffffff&bg_color=0d1117&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+yasminandrade8
 <br>
 <hr>
 
