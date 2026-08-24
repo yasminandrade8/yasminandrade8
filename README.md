@@ -25,9 +25,9 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasminandrade8&show_icons=true&title_color=87CEFA&text_color=87CEFA&icon_color=bb86fc&bg_color=0d1117&border_radius=10&include_all_commits=true" height="180" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminandrade8&layout=compact&title_color=87CEFA&text_color=ffffff&bg_color=0d1117&border_radius=10" height="180" alt="Top Langs" />
+  <img src="https://github-stats-extended.vercel.app/api?username=yasminandrade8&show_icons=true&hide_border=true&bg_color=00002E&title_color=598EFF&icon_color=FFFF00&text_color=598EFF" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=yasminandrade8&layout=compact&hide_border=true&bg_color=00002E&title_color=598EFF&text_color=598EFF" width="40%" />
+
 </div>
 
 <br>
