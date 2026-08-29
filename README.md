@@ -49,8 +49,8 @@
 <hr>
 
 <div align="center">
-  <h2>⋆˚࿔ Entre em contato comigo! ⋆˚࿔</h2>
-  <p>𖦹°·𓇼 Vamos compartilhar novas experiências juntos! 𖦹°·𓇼</p>
+  <h3>★°。Entre em contato comigo! ★°。</h3>
+  <p>◎°⋆ Vamos compartilhar novas experiências juntos! ◎°⋆</p>
   <img src="https://komarev.com/ghpvc/?username=yasminandrade8&label=Visitas%20no%20perfil&color=1D9E75&style=for-the-badge" />
 </div>
 
