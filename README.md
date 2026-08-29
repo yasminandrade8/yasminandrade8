@@ -39,19 +39,6 @@
 
 <br>
 
-## 🚀 Projetos em destaque
-
-<p align="center">
-  <a href="https://github.com/yasminandrade8/PROJETO-02-DESENVOLVIMENTO-WEB-III">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=yasminandrade8&repo=PROJETO-02-DESENVOLVIMENTO-WEB-III&theme=tokyonight&hide_border=true&bg_color=00002E&title_color=598EFF&text_color=598EFF" width="45%" />
-  </a>
-  <a href="https://github.com/yasminandrade8/TecProgramacao">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=yasminandrade8&repo=TecProgramacao&theme=tokyonight&hide_border=true&bg_color=00002E&title_color=598EFF&text_color=598EFF" width="45%" />
-  </a>
-</p>
-
-<br>
-
 ## 🐍 Contribuições
 
 <p align="center">
