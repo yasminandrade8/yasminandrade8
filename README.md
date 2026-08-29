@@ -58,18 +58,6 @@
   <img src="https://raw.githubusercontent.com/yasminandrade8/yasminandrade8/output/github-snake-dark.svg" width="100%" />
 </p>
 
-> ⚠️ Essa animação só aparece depois de configurar a GitHub Action que gera o arquivo — veja o passo a passo logo abaixo do README.
-
-<br>
-
-## 🎯 Em aprendizado
-
-- [x] Java
-- [x] MySQL
-- [ ] Spring Boot
-- [ ] Arquitetura de banco de dados avançada
-- [ ] Lógica de programação avançada
-
 <br>
 <hr>
 
