@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Ol%C3%A1%2C+eu+sou+a+Yasmin!+%F0%9F%8C%8A;Estudante+de+DSM;Apaixonada+por+arquitetura+Back-End;Explorando+bancos+de+dados+e+l%C3%B3gica+avan%C3%A7ada;&font=Fira+Code&center=true&width=500&height=45&duration=3000&pause=800&color=598EFF&vCenter=true&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Ol%C3%A1%2C+eu+sou+a+Yasmin!+%F0%9F%8C%8A;Estudante+de+DSM;Apaixonada+por+arquitetura+Back-End;&font=Fira+Code&center=true&width=500&height=45&duration=3000&pause=800&color=598EFF&vCenter=true&size=22" />
 </p>
 
 <p align="center">
