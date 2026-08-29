@@ -61,16 +61,15 @@
 <br>
 <hr>
 
-<div align="right">
-  <img src="https://github.com/user-attachments/assets/ae2c1398-5d8c-46b2-afc1-2e738a017f68" width="300" />
-</div>
-
 <div align="center">
   <h2>⋆˚࿔ Entre em contato comigo! ⋆˚࿔</h2>
   <p>𖦹°·𓇼 Vamos compartilhar novas experiências juntos! 𖦹°·𓇼</p>
   <img src="https://komarev.com/ghpvc/?username=yasminandrade8&label=Visitas%20no%20perfil&color=1D9E75&style=for-the-badge" />
 </div>
 
+<div align="center">
+  <img src="https://media1.tenor.com/m/6P6q7GEHU_kAAAAC/sunny-sunny-one-piece.gif" width="550" />
+</div>
 <br>
 
 <p align="center">
