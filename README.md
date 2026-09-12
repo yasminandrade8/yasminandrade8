@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/EMAIL-YASMINRANDRADE014@GMAIL.COM-0F6E56?style=for-the-badge&labelColor=555555" />
   </a>
   <a href="https://www.linkedin.com/in/yasmin-rodrigues-de-andrade-173312379/">
-    <img src="https://img.shields.io/badge/LINKEDIN-YASMIN%20RODRIGUES%20ANDRADE-085041?style=for-the-badge&labelColor=555555" />
+    <img src="https://img.shields.io/badge/LINKEDIN-YASMIN%20RODRIGUES%20DE%20ANDRADE-085041?style=for-the-badge&labelColor=555555" />
   </a>
 </p>
 
