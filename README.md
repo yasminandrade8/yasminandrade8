@@ -39,15 +39,8 @@
 
 <br>
 
-## 👾 Commit Invaders
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yasminandrade8/yasminandrade8/output/commit-invaders-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yasminandrade8/yasminandrade8/output/commit-invaders.svg">
-    <img alt="Commit Invaders" src="https://raw.githubusercontent.com/yasminandrade8/yasminandrade8/output/commit-invaders.svg" width="100%">
-  </picture>
-</p>
+🐍 Contribuições
+<p align="center"> <img src="https://raw.githubusercontent.com/yasminandrade8/yasminandrade8/output/github-snake-dark.svg" width="100%" /> </p>
 
 <br>
 <hr>
