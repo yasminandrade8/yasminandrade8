@@ -48,6 +48,19 @@
 <br>
 <hr>
 
+## 👾 Commit Invaders
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yasminandrade8/yasminandrade8/output/commit-invaders-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yasminandrade8/yasminandrade8/output/commit-invaders.svg">
+    <img alt="Commit Invaders" src="https://raw.githubusercontent.com/yasminandrade8/yasminandrade8/output/commit-invaders.svg" width="100%">
+  </picture>
+</p>
+
+<br>
+<hr>
+
 <div align="center">
   <h3>★°。Entre em contato comigo! ★°。</h3>
   <p>◎°⋆ Vamos compartilhar novas experiências juntos! ◎°⋆</p>
