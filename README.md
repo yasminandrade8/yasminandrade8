@@ -39,7 +39,7 @@
 
 <br>
 
-🐍 Contribuições
+## 🐍 Contribuições
 <p align="center"> <img src="https://raw.githubusercontent.com/yasminandrade8/yasminandrade8/output/github-snake-dark.svg" width="100%" /> </p>
 
 <br>
